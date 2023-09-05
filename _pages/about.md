@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,78 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an Assistant Professor in Department of Computer Science and Technology, [School of Informatics](https://informatics.xmu.edu.cn/), Xiamen University. I received my B.S. and Ph.D. degrees (Hons.) in Biomedical Engineering from Tsinghua University. I joined the Cardiovascular Imaging and Dynamics Laboratory in KU Leuven as a Visiting Scholar in 2015. My research interests include ultrasound beamforming, high-frame-rate ultrasound imaging, volumetric ultrasound, microvessel imaging, and signal processing.
 
+----------------------------------------------------------------------------------
+
+# <i class="fa fa-search-plus" aria-hidden="true"></i> Research Interests
+
+* Ultrasound imaging
+* Ultrasound beamforming
+* Volumetric ultrasound Imaging
+* Microvessel imaging
+* Signal and image processing
+* Machine learning and deep learning
+
+----------------------------------------------------------------------------------
+
+# <i class="fa fa-envelope" aria-hidden="true"></i> Contact
+
+E-mail: [yinran_chen@xmu.edu.cn](yinran_chen@xmu.edu.cn)
+
+----------------------------------------------------------------------------------
+
+# <i class="fa fa-graduation-cap" aria-hidden="true"></i> Experience
+
+* 2019.10 - present: Assistant Professor, School of Informatics, Xiamen University
+* 2014.08 - 2019.07: Doctor of Philosophy (Hons.), Department of Biomedical Engineering, Tsinghua University (Advisor: [Prof. Jianwen Luo](https://bme.med.tsinghua.edu.cn/info/1116/1032.htm))
+* 2015.07 - 2015.08: Visiting Scholar, Department of Cardiovascular Sciences, KU Leuven (Advisor: [Prof. Jan D'hooge](https://www.kuleuven.be/wieiswie/en/person/00014531))
+* 2010.08 - 2014.07: Bachelor of Engineering, Department of Biomedical Engineering, Tsinghua University
+
+----------------------------------------------------------------------------------
+
+# <i class="fa fa-rocket" aria-hidden="true"></i> Projects
+
+* 2023.07 - 2025.06, Enterprise-College Cooperation Project (企业-高校横向合作项目), PI, xxxxxxx CNY.
+* 2020.01 - 2023.12, National Natural Science Foundation of China (国家自然科学基金青年项目), PI, xxxxxx CNY.
+* 2020.01 - 2023.12, Natural Science Foundation of Fujian Province of China (福建省自然科学基金青年创新项目), PI, xxxxx CNY.
+* 2021.01 - 2022.12, Fundamental Research Funds for the Central Universities of China (厦门大学校长基金), PI, xxxxxx CNY.
+* 2020.01 - 2020.12, Fundamental Research Funds for the Central Universities of China (厦门大学校长基金), PI, xxxxx CNY.
+
+----------------------------------------------------------------------------------
+
+# <i class="fa fa-users" aria-hidden="true"></i> Service
+
+## Conference Committee
+
+* Poster Chair: 2023 IEEE International Ultrasonics Symposium (IUS 2023)
+* Technical Committee: 2023 International Conference on Medical Computer Vision and Robotics
+* Local Committee Co-Chair: 2022 International Conference on Control and Computer Vision
+
+## Reviewer
+
+* IEEE Transactions on Medical Imaging
+* IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
+* IEEE Transactions on Instrumentation and Measurement
+* IEEE Robotics and Automation Letters
+* IEEE Photonics Technology Letters
+* Acta Acustica
+* 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)
+
+----------------------------------------------------------------------------------
+
+# <i class="fa fa-trophy" aria-hidden="true"></i> Awards
+
+* 2022: Young Teachers Teaching Skills Competition of Xiamen University (Second Prize)
+* 2021: High-Calibre Talent, Class B, Fujian Province (福建省引进高层次人才B类)
+* 2019: IEEE IUS Student Travel Support Award
+* 2019: National Scholarship 
+* 2019: Excellent Doctoral Dissertation of Tsinghua University (Top 10%)
+* 2019: Excellent Graduate of Tsinghua University
+* 2016: IEEE IUS Student Travel Support Award
+
+
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -48,3 +118,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->

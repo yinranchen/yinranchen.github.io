@@ -1,3 +1,4 @@
+#source "https://mirrors.tuna.tsinghua.edu.cn/rubygems/"
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -24,4 +25,8 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'tzinfo'
+  gem 'tzinfo-data'
 end
+
+gem "webrick", "~> 1.8"

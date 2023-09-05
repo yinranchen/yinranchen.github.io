@@ -4,7 +4,6 @@ title: "Students"
 
 ---
 
-<!--
 ## <i class="fa fa-user-circle" aria-hidden="true"></i> Current
 
 * Fengling Meng (Master candidate)
@@ -38,4 +37,3 @@ title: "Students"
 	* 2020 - 2023, Xiamen University, M.S.
 	* 2016 - 2020, Jinan University, B.S.
 	* Thesis: "Research on Feature Matching Method for 3D Sparse Reconstruction of Monocular Endoscopic Images"
--->
