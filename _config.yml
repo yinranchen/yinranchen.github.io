@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chen, Yinran"
-  avatar           : "bio-photo.jpg" #"profile.png"
+  avatar           : "profile.png"
   bio              : "Assistant Professor\n Xiamen University"
   location         : "Xiamen, China"
   employer         :
@@ -181,10 +181,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
-  talks:
+  students:
     output: true
     permalink: /:collection/:path/
 
@@ -227,23 +227,24 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _students
   - scope:
       path: ""
-      type: talks
+      type: students
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
