@@ -3,6 +3,11 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+## <i class="fa fa-book" aria-hidden="true"></i> Fall 2023 - 2024 
+	
+* Computational Intelligence (M.S./Ph.D. Course)(Co-teaching with Prof. Yanyun Qu)
+	* Teaching assistant: 
+
 ## <i class="fa fa-book" aria-hidden="true"></i> Spring 2022 - 2023
 
 * Object-Oriented Programming (B.S. Course)
