@@ -25,6 +25,7 @@ title: "Students"
 * Zhuang, Zichen (Master candidate)
 	* 2022 - present, Xiamen University
 	* 2018 - 2022, Harbin University of Science and Technology, B.S.
+	* \*won National Scholarship for Graduate Students in 2023
 	
 * Li, Hailong (Master candidate)
 	* 2023 - present, Xiamen University

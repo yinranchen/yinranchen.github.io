@@ -60,11 +60,14 @@ E-mail: [yinran_chen@xmu.edu.cn](yinran_chen@xmu.edu.cn)
 
 * IEEE Transactions on Medical Imaging
 * IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
+* IEEE Transactions on Biomedical Engineering
 * IEEE Transactions on Instrumentation and Measurement
 * IEEE Robotics and Automation Letters
 * IEEE Photonics Technology Letters
-* Acta Acustica
-* 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)
+* IET Image Processing
+* Physics in Medicine and Biology
+* Computers in Biology and Medicine
+* IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 
 ----------------------------------------------------------------------------------
 

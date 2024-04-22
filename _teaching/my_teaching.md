@@ -3,6 +3,14 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+## <i class="fa fa-book" aria-hidden="true"></i> Spring 2023 - 2024 
+	
+* Object-Oriented Programming (B.S. Course)
+	* Teaching assistant: Hailong Li
+
+* Optimization Theory and Algorithms (M.S./Ph.D. Course)
+	* Teaching assistant: Baohui Fang
+
 ## <i class="fa fa-book" aria-hidden="true"></i> Fall 2023 - 2024 
 	
 * Computational Intelligence (M.S./Ph.D. Course)(Co-teaching with Prof. Yanyun Qu)
