@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in Department of Computer Science and Technology, [School of Informatics](https://informatics.xmu.edu.cn/), Xiamen University. I received my B.S. and Ph.D. degrees (Hons.) in Biomedical Engineering from Tsinghua University. I joined the Cardiovascular Imaging and Dynamics Laboratory in KU Leuven as a Visiting Scholar in 2015. My research interests include ultrasound beamforming, high-frame-rate ultrasound imaging, volumetric ultrasound, microvessel imaging, and signal processing.
+I am an Assistant Professor in Department of Computer Science and Technology, [School of Informatics](https://informatics.xmu.edu.cn/), Xiamen University. I received my B.S. and Ph.D. degrees (Hons.) in Biomedical Engineering from Tsinghua University. I joined the Cardiovascular Imaging and Dynamics Laboratory in KU Leuven as a Visiting Scholar in 2015. My research interests include ultrasound beamforming, high-frame-rate ultrasound imaging, volumetric ultrasound, microvascular imaging, and signal processing.
 
 ----------------------------------------------------------------------------------
 
 # <i class="fa fa-search-plus" aria-hidden="true"></i> Research Interests
 
-* Ultrasound imaging
+* Medical ultrasound imaging
 * Ultrasound beamforming
 * Volumetric ultrasound Imaging
-* Microvessel imaging
+* Microvascular imaging
 * Signal and image processing
 * Machine learning and deep learning
 
@@ -40,6 +40,7 @@ E-mail: [yinran_chen@xmu.edu.cn](yinran_chen@xmu.edu.cn)
 
 # <i class="fa fa-rocket" aria-hidden="true"></i> Projects
 
+* 2025.01 - 2028.12, National Natural Science Foundation of China (国家自然科学基金面上项目), PI, xxxxxx CNY.
 * 2023.07 - 2025.06, Enterprise-College Cooperation Project (企业-高校横向合作项目), PI, xxxxxxx CNY.
 * 2020.01 - 2023.12, National Natural Science Foundation of China (国家自然科学基金青年项目), PI, xxxxxx CNY.
 * 2020.01 - 2023.12, Natural Science Foundation of Fujian Province of China (福建省自然科学基金青年创新项目), PI, xxxxx CNY.

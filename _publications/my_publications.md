@@ -7,7 +7,7 @@ title: "Publications"
 (\* indicates corresponding author; # denotes co-first authorship)
 
 ## <i class="fa fa-archive" aria-hidden="true"></i>  Journal
-
+* Fengling Meng, **Yinran** **Chen**\*, and Xiongbiao Luo, Accurate and Robust Sperm Tracking via Adaptive Marginalized Particle Filtering, _IEEE Signal Processing Letters_, vol. 31, pp. 2020-2024, 2024. (Q2, IF = 3.2) [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10616219)
 * **Yinran** **Chen**, Baohui Fang, Fengling Meng, Jianwen Luo, and Xiongbiao Luo\*, Competitive Swarm Optimized SVD Clutter Filtering for Ultrafast Power Doppler Imaging, _IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control_, vol. 71, no. 4, pp. 459-473, 2024. (Q2, IF = 3.6) [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10423619)
 * **Yinran** **Chen**, Zichen Zhuang, Jianwen Luo, and Xiongbiao Luo\*, Doppler and Pair-Wise Optical Flow Constrained 3D Motion Compensation for 3D Ultrasound Imaging, _IEEE Transactions on Image Processing_, vol. 32, pp. 4501-4516, 2023. (Q1, TOP, CCF-A, IF = 10.6) [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10209561/)
 * **Yinran** **Chen**, Jing Liu, Xiongbiao Luo\*, and Jianwen Luo\*, ApodNet: Learning for High Frame Rate Synthetic Transmit Aperture Ultrasound Imaging, _IEEE Transactions on Medical Imaging_, vol. 40, no. 11, pp. 3190-3204, Nov. 2021. (Q1, TOP, CCF-B, IF = 11.037) [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/9443173/)
