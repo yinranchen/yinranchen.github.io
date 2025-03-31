@@ -5,9 +5,10 @@ title: "Publications"
 ---
 
 (\* indicates corresponding author; # denotes co-first authorship)
+
 (Visit my [Google Scholar](https://scholar.google.com/citations?user=daaRpEcAAAAJ&hl=en) for full publications)
 
-## <i class="fa fa-archive" aria-hidden="true"></i>  Selected Publications: Journal
+## <i class="fa fa-archive" aria-hidden="true"></i>  Selected Journal Papers:
 * **Yinran** **Chen**, Baohui Fang, Huaying Li, Lijie Huang, and Jianwen Luo\*, Ultrafast Online Clutter Filtering for Ultrasound Microvascular Imaging, _IEEE Transactions on Medical Imaging_, Early access. 2025. (Q1, TOP, IF = 8.9) [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10855831)
 * Fengling Meng, **Yinran** **Chen**\*, and Xiongbiao Luo, Accurate and Robust Sperm Tracking via Adaptive Marginalized Particle Filtering, _IEEE Signal Processing Letters_, vol. 31, pp. 2020-2024, 2024. (Q2, IF = 3.2) [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10616219)
 * **Yinran** **Chen**, Baohui Fang, Fengling Meng, Jianwen Luo, and Xiongbiao Luo\*, Competitive Swarm Optimized SVD Clutter Filtering for Ultrafast Power Doppler Imaging, _IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control_, vol. 71, no. 4, pp. 459-473, 2024. (Q2, IF = 3.6) [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10423619)
@@ -22,7 +23,7 @@ title: "Publications"
 * Qiong He, Ling Tong, Lingyun Huang, Jing Liu, **Yinran** **Chen**, and Jianwen Luo\*, Performance Optimization of Lateral Displacement Estimation with Spatial Angular Compounding, _Ultrasonics_, vol. 73, pp. 9-21, 2017. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://www.sciencedirect.com/science/article/pii/S0041624X16301445)
 * **陈胤燃**, 何琼, 罗建文, 基于GPU并行计算的超声波束合成方法, vol. 35, no. 6, pp. 677-683, 2016. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](http://cjbme.csbme.org/CN/abstract/abstract617.shtml)
 
-## <i class="fa fa-archive" aria-hidden="true"></i> Selected Publications: Conference 
+## <i class="fa fa-archive" aria-hidden="true"></i> Selected Conference Proceedings:
 * **Yinran** **Chen**, Jing Liu, Jianwen Luo, and Xiongbiao Luo\*, A Data-Driven Approach for High Frame Rate Synthetic Transmit Aperture Ultrasound Imaging. _MICCAI 2021_. vol 12906, 2021. (CCF-B) [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_40)
 
 * Huaying Li, Baohui Fang, Zelin Ye, Fengling Meng, and **Yinran** **Chen**\*, Attention USR-Net: An End-to-End Mapped Ultrasound Localization Microscopy, _IEEE IUS 2024_, 2024, pp. 1-4. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10793914)
