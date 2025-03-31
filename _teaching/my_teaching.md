@@ -3,6 +3,14 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+## <i class="fa fa-book" aria-hidden="true"></i> Spring 2024 - 2025 
+	
+* Object-Oriented Programming (B.S. Course)
+	* Teaching assistant: Zetao Fei and Sujie Liu
+
+* Optimization Theory and Algorithms (M.S./Ph.D. Course)
+	* Teaching assistant: Ruoshi Li and Huaying Li
+
 ## <i class="fa fa-book" aria-hidden="true"></i> Fall 2024 - 2025 
 	
 * Computational Intelligence (M.S./Ph.D. Course)(Co-teaching with Prof. Yanyun Qu)
