@@ -6,4 +6,4 @@ excerpt_separator: <!--more-->
 
 ---
 
-![](/images/research/XMUS_LOGO.png)
+![](/images/research/XMUS_LOGO.png height="200px")
