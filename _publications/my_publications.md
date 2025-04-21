@@ -4,7 +4,7 @@ title: "Publications"
 
 ---
 
-(\* indicates corresponding author; # denotes co-first authorship)
+(\*: corresponding author; #: co-first authorship)
 
 (Visit my [Google Scholar](https://scholar.google.com/citations?user=daaRpEcAAAAJ&hl=en) for full publications)
 
@@ -21,7 +21,8 @@ title: "Publications"
 * **陈胤燃**, 何琼, 罗建文, 基于GPU并行计算的超声波束合成方法, vol. 35, no. 6, pp. 677-683, 2016. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](http://cjbme.csbme.org/CN/abstract/abstract617.shtml)
 
 ## <i class="fa fa-archive" aria-hidden="true"></i> Selected Conference Proceedings
-* **Yinran** **Chen**, Jing Liu, Jianwen Luo, and Xiongbiao Luo\*, A Data-Driven Approach for High Frame Rate Synthetic Transmit Aperture Ultrasound Imaging. _MICCAI 2021_. vol 12906, 2021. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_40)
+* **Yinran** **Chen**, Jing Liu, Jianwen Luo, and Xiongbiao Luo\*, A Data-Driven Approach for High Frame Rate Synthetic Transmit Aperture Ultrasound Imaging, _MICCAI 2021_. vol 12906, 2021. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_40)
+* Ruoshi Li, Hao Qi, Xing Chen, and **Yinran** **Chen**\*, Integrating Multi-Scale Compression Attention with Edge Detection for Ultrasound Tumor Segmentation, _IEEE ICASSP 2025_, 2025, pp. 1-5. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10887545)
 * Kaiyun Zhang, Wenkang Fan, **Yinran** **Chen**\*, and Xiongbiao Luo\*, DGN: Descriptor Generation Network for Feature Matching in Monocular Endoscopy 3D Reconstruction, _IEEE ICASSP 2023_, 2023, pp. 1-5. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10096371/)
 * Huaying Li, Baohui Fang, Zelin Ye, Fengling Meng, and **Yinran** **Chen**\*, Attention USR-Net: An End-to-End Mapped Ultrasound Localization Microscopy, _IEEE IUS 2024_, 2024, pp. 1-4. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10793914)
 * Baohui Fang, Huaying Li, and **Yinran** **Chen**\*. Total Variational Robust PCA for Ultrasound Microvascular Clutter Filtering, _IEEE IUS 2024_, 2024, pp. 1-4. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10793489)

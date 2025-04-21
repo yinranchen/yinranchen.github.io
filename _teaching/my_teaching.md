@@ -3,6 +3,8 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+(Visit [Xiamen University Smart Education Platform](https://course.xmu.edu.cn/) for more information)
+
 ## <i class="fa fa-book" aria-hidden="true"></i> Spring 2024 - 2025 
 	
 * Object-Oriented Programming (B.S. Course)

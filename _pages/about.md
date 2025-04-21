@@ -56,6 +56,7 @@ E-mail: [yinran_chen@xmu.edu.cn](yinran_chen@xmu.edu.cn)
 
 ## Conference Committee
 
+* Technical Program Committee (TPC) Member of IEEE IUS
 * Poster Session Chair: 2023 IEEE International Ultrasonics Symposium (IUS 2023)
 * Technical Committee: 2023 International Conference on Medical Computer Vision and Robotics
 * Local Committee Co-Chair: 2022 International Conference on Control and Computer Vision
