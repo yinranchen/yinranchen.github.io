@@ -44,6 +44,7 @@ To be continued...
 _IEEE TUFFC'18_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/8399835/)
 
 _IEEE TIP'23_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10209561/)
+_MICCAI 2025_
 
 To be continued...
 
