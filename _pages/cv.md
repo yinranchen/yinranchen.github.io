@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://yinranchen.github.io/files/pdf/cv_YinranChen_2025.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://yinranchen.github.io/files/pdf/cv_YinranChen_202507.pdf" type="application/pdf" width="600px" height="500px" />
 
 <!--
 {% include base_path %}

@@ -84,7 +84,7 @@ E-mail: [yinran_chen@xmu.edu.cn](yinran_chen@xmu.edu.cn)
 * 2021: High-Calibre Talent, Class B, Fujian Province (福建省引进高层次人才B类)
 * 2019: IEEE IUS Student Travel Grant Award
 * 2019: National Scholarship 
-* 2019: Excellent Doctoral Dissertation of Tsinghua University (Top 10%)
+* 2019: Excellent Doctoral Dissertation of Tsinghua University (Top 5%)
 * 2019: Excellent Graduate of Tsinghua University
 * 2016: IEEE IUS Student Travel Grant Award
 
