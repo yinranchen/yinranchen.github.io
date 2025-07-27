@@ -5,84 +5,69 @@ title: "Teaching"
 
 (Visit [Xiamen University Smart Education Platform](https://course.xmu.edu.cn/) for more information)
 
-## <i class="fa fa-book" aria-hidden="true"></i> Spring 2024 - 2025 
+## <i class="fa fa-book" aria-hidden="true"></i> 2024 - 2025 
 	
-* Object-Oriented Programming (B.S. Course)
+* Spring: Object-Oriented Programming (B.S. Course)
 	* Teaching assistant: Zetao Fei and Sujie Liu
 
-* Optimization Theory and Algorithms (M.S./Ph.D. Course)
+* Spring: Optimization Theory and Algorithms (M.S./Ph.D. Course)
 	* Teaching assistant: Ruoshi Li and Huaying Li
-
-## <i class="fa fa-book" aria-hidden="true"></i> Fall 2024 - 2025 
 	
-* Computational Intelligence (M.S./Ph.D. Course)(Co-teaching with Prof. Yanyun Qu)
+* Fall: Computational Intelligence (M.S./Ph.D. Course)(Co-teaching with Prof. Yanyun Qu)
 	* Teaching assistant: Jianxiang Xie
 
-## <i class="fa fa-book" aria-hidden="true"></i> Spring 2023 - 2024 
+## <i class="fa fa-book" aria-hidden="true"></i> 2023 - 2024 
 	
-* Object-Oriented Programming (B.S. Course)
+* Spring: Object-Oriented Programming (B.S. Course)
 	* Teaching assistant: Hailong Li
 
-* Optimization Theory and Algorithms (M.S./Ph.D. Course)
+* Spring: Optimization Theory and Algorithms (M.S./Ph.D. Course)
 	* Teaching assistant: Baohui Fang
-
-## <i class="fa fa-book" aria-hidden="true"></i> Fall 2023 - 2024 
 	
-* Computational Intelligence (M.S./Ph.D. Course)(Co-teaching with Prof. Yanyun Qu)
+* Fall: Computational Intelligence (M.S./Ph.D. Course)(Co-teaching with Prof. Yanyun Qu)
 	* Teaching assistant: 
 
-## <i class="fa fa-book" aria-hidden="true"></i> Spring 2022 - 2023
+## <i class="fa fa-book" aria-hidden="true"></i> 2022 - 2023
 
-* Object-Oriented Programming (B.S. Course)
+* Spring: Object-Oriented Programming (B.S. Course)
 	* Teaching assistant: Fengling Meng
 
-* Optimization Theory and Algorithms (M.S./Ph.D. Course)
+* Spring: Optimization Theory and Algorithms (M.S./Ph.D. Course)
 	* Teaching assistant: Zhiyuan Liu
 
-## <i class="fa fa-book" aria-hidden="true"></i> Fall 2022 - 2023 
-
-* Python Programming (B.S. Course)
+* Fall: Python Programming (B.S. Course)
 	* Teaching assistant: Dongfang Shen
 	
-* Computational Intelligence (M.S./Ph.D. Course)(Co-teaching with Prof. Yanyun Qu)
+* Fall: Computational Intelligence (M.S./Ph.D. Course)(Co-teaching with Prof. Yanyun Qu)
 	* Teaching assistant: Honglei Zheng
 	
-## <i class="fa fa-book" aria-hidden="true"></i> Spring 2021 - 2022
+## <i class="fa fa-book" aria-hidden="true"></i> 2021 - 2022
 
-* Object-Oriented Programming C++ (B.S. Course)
+* Spring: Object-Oriented Programming C++ (B.S. Course)
 	* Teaching assistant: Gang Ding
 
-* Optimization Theory and Algorithms (M.S./Ph.D. Course)
+* Spring: Optimization Theory and Algorithms (M.S./Ph.D. Course)
 	* Teaching assistant: Jiabao Jin
 
-## <i class="fa fa-book" aria-hidden="true"></i> Fall 2021 - 2022 
-
-* Python Programming (B.S. Course)
+* Fall: Python Programming (B.S. Course)
 	* Teaching assistant: Kaiyun Zhang
 	
-* Computational Intelligence (M.S./Ph.D. Course)(Co-teaching with Prof. Yanyun Qu)
+* Fall: Computational Intelligence (M.S./Ph.D. Course)(Co-teaching with Prof. Yanyun Qu)
 	* Teaching assistant: Xia Kong
 	
-## <i class="fa fa-book" aria-hidden="true"></i> Spring 2020 - 2021
+## <i class="fa fa-book" aria-hidden="true"></i> 2020 - 2021
 
-* Object-Oriented Programming C++ (B.S. Course)
+* Spring: Object-Oriented Programming C++ (B.S. Course)
 	* Teaching assistant: Rong Chen
 
-* Optimization Theory and Algorithms (M.S./Ph.D. Course)
+* Spring: Optimization Theory and Algorithms (M.S./Ph.D. Course)
 
-## <i class="fa fa-book" aria-hidden="true"></i> Fall 2020 - 2021 
-
-* Python Programming (B.S. Course)
+* Fall: Python Programming (B.S. Course)
 	* Teaching assistant: Zhuohui Zheng
 	
 * FSC111: Programming in Language C (B.S. Course in Xiamen University Malaysia)
 
-## <i class="fa fa-book" aria-hidden="true"></i> Spring 2019 - 2020
+## <i class="fa fa-book" aria-hidden="true"></i> 2019 - 2020
 
-* Object-Oriented Programming C++ (B.S. Course)
+* Spring: Object-Oriented Programming C++ (B.S. Course)
 	* Teaching assistant: Wankang Zeng
-
-	
-
-	
-

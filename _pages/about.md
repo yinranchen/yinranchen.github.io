@@ -42,6 +42,7 @@ E-mail: [yinran_chen@xmu.edu.cn](yinran_chen@xmu.edu.cn)
 
 * 2025.01 - 2028.12, National Natural Science Foundation of China (国家自然科学基金面上项目), PI.
 * 2021.01 - 2023.12, National Natural Science Foundation of China (国家自然科学基金青年项目), PI.
+* 2025.05 - 2028.04, Fujian Provincial Natural Science Foundation of China (福建省自然科学基金优青项目), PI.
 * 2023.07 - 2025.06, Enterprise-College Cooperation Project (企业-高校横向合作项目), PI.
 * 2024.11 - 2027.11, Fujian Provincial Natural Science Foundation of China (福建省自然科学基金面上项目), PI.
 * 2020.01 - 2023.12, Fujian Provincial Natural Science Foundation of China (福建省自然科学基金青年创新项目), PI.
@@ -57,6 +58,7 @@ E-mail: [yinran_chen@xmu.edu.cn](yinran_chen@xmu.edu.cn)
 ## Conference Committee
 
 * Technical Program Committee (TPC) Member of IEEE IUS
+* Committee Member of Medical Imaging Computing Seminar (MICS)
 * Poster Session Chair: 2023 IEEE International Ultrasonics Symposium (IUS 2023)
 * Technical Committee: 2023 International Conference on Medical Computer Vision and Robotics
 * Local Committee Co-Chair: 2022 International Conference on Control and Computer Vision
@@ -79,7 +81,8 @@ E-mail: [yinran_chen@xmu.edu.cn](yinran_chen@xmu.edu.cn)
 
 # <i class="fa fa-trophy" aria-hidden="true"></i> Awards
 
-* 2024: IEEE UFFC-JS Student Travel Grant Award
+* 2025: IEEE IUS Student Travel Grant Award (graduate student: Hailong Li)
+* 2024: IEEE UFFC-JS Student Travel Grant Award (graduate student: Baohui Fang)
 * 2022: Young Teachers Teaching Skills Competition of Xiamen University (Second Prize)
 * 2021: High-Calibre Talent, Class B, Fujian Province (福建省引进高层次人才B类)
 * 2019: IEEE IUS Student Travel Grant Award
