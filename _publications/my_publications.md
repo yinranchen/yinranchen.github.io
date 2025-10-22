@@ -8,6 +8,9 @@ title: "Publications"
 
 (Visit my [Google Scholar](https://scholar.google.com/citations?user=daaRpEcAAAAJ&hl=en) for full publications)
 
+## <i class="fa fa-archive" aria-hidden="true"></i>  Preprints
+* Huaying Li, Liansheng Wang, and **Yinran** **Chen**\*, Unsupervised Unfolded rPCA (U2-rPCA): Deep Interpretable Clutter Filtering for Ultrasound Microvascular Imaging, arXiv:2510.00660, 2025. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://arxiv.org/abs/2510.00660)
+
 ## <i class="fa fa-archive" aria-hidden="true"></i>  Selected Journal Papers
 * **Yinran** **Chen**, Baohui Fang, Huaying Li, Lijie Huang, and Jianwen Luo\*, Ultrafast Online Clutter Filtering for Ultrasound Microvascular Imaging, _IEEE Transactions on Medical Imaging_, vol. 44, no. 6, pp. 2477-2491, June 2025. (Q1, TOP, IF = 9.8) [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10855831)
 * Fengling Meng, **Yinran** **Chen**\*, and Xiongbiao Luo, Accurate and Robust Sperm Tracking via Adaptive Marginalized Particle Filtering, _IEEE Signal Processing Letters_, vol. 31, pp. 2020-2024, 2024. (Q2, IF = 3.2) [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10616219)
@@ -21,7 +24,7 @@ title: "Publications"
 * **陈胤燃**, 何琼, 罗建文, 基于GPU并行计算的超声波束合成方法, _中国生物医学工程学报_, vol. 35, no. 6, pp. 677-683, 2016. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](http://cjbme.csbme.org/CN/abstract/abstract617.shtml)
 
 ## <i class="fa fa-archive" aria-hidden="true"></i> Selected Conference Proceedings
-* Hailong Li, Liansheng Wang, and **Yinran** **Chen**\*, A Uniform Multi-mode Fused Framework forVelocity Field Estimation in Ultrasound Imaging, _MICCAI 2025_. 2025. (Accepted)
+* Hailong Li, Liansheng Wang, and **Yinran** **Chen**\*, A Uniform Multi-mode Fused Framework forVelocity Field Estimation in Ultrasound Imaging, _MICCAI 2025_. vol 15967, 2025. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://link.springer.com/chapter/10.1007/978-3-032-04984-1_6)
 * **Yinran** **Chen**, Jing Liu, Jianwen Luo, and Xiongbiao Luo\*, A Data-Driven Approach for High Frame Rate Synthetic Transmit Aperture Ultrasound Imaging, _MICCAI 2021_. vol 12906, 2021. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_40)
 * Ruoshi Li, Hao Qi, Xing Chen, and **Yinran** **Chen**\*, Integrating Multi-Scale Compression Attention with Edge Detection for Ultrasound Tumor Segmentation, _IEEE ICASSP 2025_, 2025, pp. 1-5. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10887545)
 * Kaiyun Zhang, Wenkang Fan, **Yinran** **Chen**\*, and Xiongbiao Luo\*, DGN: Descriptor Generation Network for Feature Matching in Monocular Endoscopy 3D Reconstruction, _IEEE ICASSP 2023_, 2023, pp. 1-5. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10096371/)
