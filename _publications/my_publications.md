@@ -9,7 +9,7 @@ title: "Publications"
 (Visit my [Google Scholar](https://scholar.google.com/citations?user=daaRpEcAAAAJ&hl=en) for full publications)
 
 ## <i class="fa fa-archive" aria-hidden="true"></i>  Preprints
-* Huaying Li, Liansheng Wang, and **Yinran** **Chen**\*, Unsupervised Unfolded rPCA (U2-rPCA): Deep Interpretable Clutter Filtering for Ultrasound Microvascular Imaging, arXiv:2510.00660, 2025. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://arxiv.org/abs/2510.00660)
+* Huaying Li, Liansheng Wang, and **Yinran** **Chen**\*, Unsupervised Unfolded rPCA (U<sup>2</sup>-rPCA): Deep Interpretable Clutter Filtering for Ultrasound Microvascular Imaging, arXiv:2510.00660, 2025. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://arxiv.org/abs/2510.00660)
 
 ## <i class="fa fa-archive" aria-hidden="true"></i>  Selected Journal Papers
 * **Yinran** **Chen**, Baohui Fang, Huaying Li, Lijie Huang, and Jianwen Luo\*, Ultrafast Online Clutter Filtering for Ultrasound Microvascular Imaging, _IEEE Transactions on Medical Imaging_, vol. 44, no. 6, pp. 2477-2491, June 2025. (Q1, TOP, IF = 9.8) [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10855831)
@@ -28,6 +28,8 @@ title: "Publications"
 * **Yinran** **Chen**, Jing Liu, Jianwen Luo, and Xiongbiao Luo\*, A Data-Driven Approach for High Frame Rate Synthetic Transmit Aperture Ultrasound Imaging, _MICCAI 2021_. vol 12906, 2021. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_40)
 * Ruoshi Li, Hao Qi, Xing Chen, and **Yinran** **Chen**\*, Integrating Multi-Scale Compression Attention with Edge Detection for Ultrasound Tumor Segmentation, _IEEE ICASSP 2025_, 2025, pp. 1-5. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10887545)
 * Kaiyun Zhang, Wenkang Fan, **Yinran** **Chen**\*, and Xiongbiao Luo\*, DGN: Descriptor Generation Network for Feature Matching in Monocular Endoscopy 3D Reconstruction, _IEEE ICASSP 2023_, 2023, pp. 1-5. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10096371/)
+* Huaying Li, Hailong Li, and **Yinran** **Chen**\*, Unsupervised Unfolded rPCA Clutter Filtering, _IEEE IUS 2025_, 2025, pp. 1-4. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/11201508)
+* Hailong Li, Huaying Li, and **Yinran** **Chen**\*, Fusion of Doppler and Pair-Wise Optical Flow with Motion Compensation for Ultrasound Velocity Field Estimation, _IEEE IUS 2025_, 2025, pp. 1-4. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/11201850)
 * Huaying Li, Baohui Fang, Zelin Ye, Fengling Meng, and **Yinran** **Chen**\*, Attention USR-Net: An End-to-End Mapped Ultrasound Localization Microscopy, _IEEE IUS 2024_, 2024, pp. 1-4. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10793914)
 * Baohui Fang, Huaying Li, and **Yinran** **Chen**\*. Total Variational Robust PCA for Ultrasound Microvascular Clutter Filtering, _IEEE IUS 2024_, 2024, pp. 1-4. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10793489)
 * Baohui Fang, Fengling Meng, **Yinran** **Chen**\*, Jianwen Luo, and Xiongbiao Luo, A Competitive Swarm Optimized SVD-based Clutter Filter, _IEEE IUS 2023_, 2023, pp. 1-4. [<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10306441)
@@ -43,4 +45,4 @@ title: "Publications"
 
 ## <i class="fa fa-archive" aria-hidden="true"></i> Patent
 * **陈胤燃** 等, 一种超声血流成像杂波滤波器设计方法和装置, 中国发明专利。（已公开：CN116976181A）
-* **陈胤燃** 等, 一种用于超声微小血流成像的在线杂波抑制方法及系统, 中国发明专利。（已公开：CN119498891A）
+* **陈胤燃** 等, 一种用于超声微小血流成像的在线杂波抑制方法及系统, 中国发明专利。（授权号：CN119498891B）
