@@ -19,9 +19,11 @@ XMU Ultrasound Lab (XMUS) develops innovative techniques for ultrasound imaging,
 
 ![](/images/research/volumetric_imaging.png)
 
+_PMB'19_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://iopscience.iop.org/article/10.1088/1361-6560/aaf5f1)
+
 _IEEE TUFFC'17_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/7812770)
 
-_PMB'19_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://iopscience.iop.org/article/10.1088/1361-6560/aaf5f1)
+_IUS'19_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/8925974)
 
 To be continued...
 
@@ -34,6 +36,8 @@ _IEEE TMI'21_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeex
 
 _MICCAI'21_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_40)
 
+_IUS'22_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/9958390/), _IUS'21_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/9593334/), _IUS'18_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/8579979)
+
 To be continued...
 
 
@@ -41,11 +45,13 @@ To be continued...
 
 ![](/images/research/moco.png)
 
-_IEEE TUFFC'18_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/8399835/)
-
 _IEEE TIP'23_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10209561/)
 
-_MICCAI 2025_
+_IEEE TUFFC'18_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/8399835/)
+
+_MICCAI'25_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://link.springer.com/chapter/10.1007/978-3-032-04984-1_6)
+
+_IUS'25_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/11201850), _IUS'20_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/9251770/)
 
 To be continued...
 
@@ -54,9 +60,11 @@ To be continued...
 
 ![](/images/research/online_microvascular_imaging.png)
 
+_IEEE TMI'25_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10855831)
+
 _IEEE TUFFC'24_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10423619)
 
-_IEEE TMI'25_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10855831)
+_IUS'25_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/11201508), _IUS'24_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10793914), _IUS'24_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10793489), _IUS'23_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10306441), _IUS'23_[<i class="fa fa-fw fa-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/9957852/)
 
 To be continued...
 
