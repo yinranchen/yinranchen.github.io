@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in Department of Computer Science and Technology, [School of Informatics](https://informatics.xmu.edu.cn/), Xiamen University. I received my B.S. and Ph.D. degrees (Hons.) in Biomedical Engineering from Tsinghua University. I joined the Cardiovascular Imaging and Dynamics Laboratory in KU Leuven as a Visiting Scholar in 2015. My research interests include ultrasound beamforming, high-frame-rate ultrasound imaging, volumetric ultrasound, microvascular imaging, and medical image processing and analysis.
+I am an Associate Professor (with tenure) in Department of Computer Science and Technology, [School of Informatics](https://informatics.xmu.edu.cn/), Xiamen University. I received my B.S. and Ph.D. degrees (Hons.) in Biomedical Engineering from Tsinghua University. I joined the Cardiovascular Imaging and Dynamics Laboratory in KU Leuven as a Visiting Scholar in 2015. My research interests include ultrasound beamforming, high-frame-rate ultrasound imaging, volumetric ultrasound, microvascular imaging, and medical image processing and analysis.
 
 ----------------------------------------------------------------------------------
 
@@ -31,7 +31,8 @@ E-mail: [yinran_chen@xmu.edu.cn](yinran_chen@xmu.edu.cn)
 
 # <i class="fa fa-graduation-cap" aria-hidden="true"></i> Experience
 
-* 2019.10 - present: Assistant Professor, School of Informatics, Xiamen University
+* 2025.08 - present: Associate Professor (with tenure), School of Informatics, Xiamen University
+* 2019.10 - 2025.08: Assistant Professor, School of Informatics, Xiamen University
 * 2014.08 - 2019.07: Doctor of Philosophy (Hons.), Department of Biomedical Engineering, Tsinghua University (Advisor: [Prof. Jianwen Luo](https://www.med.tsinghua.edu.cn/info/1143/2123.htm))
 * 2015.07 - 2015.08: Visiting Scholar, Department of Cardiovascular Sciences, KU Leuven (Advisor: [Prof. Jan D'hooge](https://www.kuleuven.be/wieiswie/en/person/00014531))
 * 2010.08 - 2014.07: Bachelor of Engineering, Department of Biomedical Engineering, Tsinghua University
