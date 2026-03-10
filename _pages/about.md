@@ -81,7 +81,7 @@ E-mail: [yinran_chen@xmu.edu.cn](yinran_chen@xmu.edu.cn)
 ----------------------------------------------------------------------------------
 
 # <i class="fa fa-trophy" aria-hidden="true"></i> Awards
-
+* 2025：Fujian Provincial Award for Science and Technology Progress, First-Class Prize  (福建省科学技术进步奖一等奖)
 * 2025: IEEE IUS Student Travel Grant Award (graduate student: Hailong Li)
 * 2024: IEEE UFFC-JS Student Travel Grant Award (graduate student: Baohui Fang)
 * 2022: Young Teachers Teaching Skills Competition of Xiamen University (Second Prize)
